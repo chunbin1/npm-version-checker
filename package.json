@@ -1,0 +1,29 @@
+{
+  "name": "npm-version-checker",
+  "version": "0.0.1",
+  "description": "npm version checker ations",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack-dev-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aledenn/npm-version-checker.git"
+  },
+  "author": "licb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aledenn/npm-version-checker/issues"
+  },
+  "homepage": "https://github.com/Aledenn/npm-version-checker#readme",
+  "devDependencies": {
+    "@babel/core": "^7.8.7",
+    "@babel/preset-typescript": "^7.8.3",
+    "babel-loader": "^8.0.6",
+    "clean-webpack-plugin": "^3.0.0",
+    "html-webpack-plugin": "^3.2.0",
+    "webpack": "^4.42.0",
+    "webpack-cli": "^3.3.11",
+    "webpack-dev-server": "^3.10.3"
+  }
+}
